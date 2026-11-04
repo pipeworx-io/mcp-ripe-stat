@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ripe-stat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "RIPE Stat MCP — IP/ASN/BGP data",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ripe-stat",
     "gatewaySlug": "ripe-stat",
-    "sourceHash": "v1-758d9bff958e86d8d9c0fe852295e5160480edde1168d3b4cd26064d09d17bd4",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-9230445831361df2a3fe0469401ad70ecd10ee0b8d0fc4c6d985bd5f993c07d3",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
